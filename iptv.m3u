@@ -38,7 +38,7 @@ http://39.135.55.105:6610/PLTV/88888888/224/3221226990/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV-4K
 http://39.135.55.105:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1
 
-#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="https://gitee.com/ityum/image/raw/master/logo/BRTV.png" group-title="卫视",北京卫视
 http://39.135.55.105:6610/PLTV/88888888/224/3221225826/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视
 http://39.135.55.105:6610/PLTV/88888888/224/3221225828/index.m3u8?servicetype=1
@@ -101,7 +101,7 @@ http://39.135.55.105:6610/PLTV/88888888/224/3221227262/index.m3u8?servicetype=1
 
 #EXTINF:-1 tvg-id="1873" tvg-name="BTV文艺" tvg-logo="https://gitee.com/ityum/image/raw/master/logo/BTVwenyi.png" group-title="北京",北京文艺
 http://221.179.136.134:443/PLTV/88888888/224/3221226440/1.m3u8
-#EXTINF:-1 tvg-id="1874" tvg-name="BTV科教" tvg-logo="https://gitee.com/ityum/image/raw/master/logo/BTVkejiao.png" group-title="北京",北京科教
+#EXTINF:-1 tvg-id="1874" tvg-name="BTV科教" tvg-logo="https://gitee.com/ityum/image/raw/master/logo/BRTVkejiao.png" group-title="北京",北京科教
 http://221.179.136.143:443/PLTV/88888888/224/3221226559/1.m3u8
 #EXTINF:-1 tvg-id="1875" tvg-name="BTV影视" tvg-logo="https://gitee.com/ityum/image/raw/master/logo/BTVyingshi.png" group-title="北京",北京影视
 http://221.179.136.150:443/PLTV/88888888/224/3221226486/1.m3u8
