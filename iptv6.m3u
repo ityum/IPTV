@@ -4,7 +4,7 @@ http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/cctv1hd.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2
 http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/cctv2hd.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV-3
-http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/cctv2hd.m3u8
+http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/cctv3hd.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV-4
 http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/cctv4hd.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV-5
