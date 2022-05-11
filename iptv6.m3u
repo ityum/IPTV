@@ -113,8 +113,3 @@ http://221.179.136.146:443/PLTV/88888888/224/3221226561/1.m3u8
 http://221.179.136.150:443/PLTV/88888888/224/3221226562/1.m3u8
 #EXTINF:-1 tvg-id="1880" tvg-name="BRTV新闻" tvg-logo="https://gitee.com/ityum/image/raw/master/logo/BRTVNews.png" group-title="北京",北京新闻
 http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/btv9hd.m3u8
-
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="https://gitee.com/ityum/image/raw/master/logo/TVBfeicui.png" group-title="港澳",翡翠台
-https://pull-hls-l1.ixigua.com/live/881dac5b982c7eb97e73fc4675f31180/playlist.m3u8
-#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="https://gitee.com/ityum/image/raw/master/logo/TVBmingzhu.png" group-title="港澳",明珠台
-https://pull-hls-l1.ixigua.com/live/cfa303b87c49e4cba97963fe7ccb0ee5/playlist.m3u8
