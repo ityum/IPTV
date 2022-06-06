@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视",河南卫视
+http://39.135.55.105:6610/PLTV/88888888/224/3221225842/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视",河南卫视
+http://39.135.55.105:6610/PLTV/88888888/224/3221227095/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视",河南卫视
+http://39.135.138.58:18890/TVOD/88888888/224/3221226196/index.m3u8

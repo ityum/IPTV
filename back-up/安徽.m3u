@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽卫视
+http://39.135.55.105:6610/PLTV/88888888/224/3221225844/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽卫视
+http://39.135.55.105:6610/PLTV/88888888/224/3221227178/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽卫视
+http://39.135.138.58:18890/TVOD/88888888/224/3221225691/index.m3u8
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽卫视
+http://39.135.138.58:18890/TVOD/88888888/224/3221225737/index.m3u8

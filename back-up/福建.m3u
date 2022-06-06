@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视",东南卫视
+http://39.135.55.105:6610/PLTV/88888888/224/3221227156/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视",东南卫视
+http://39.135.138.58:18890/TVOD/88888888/224/3221225657/index.m3u8
+
+#EXTINF:-1 tvg-id="68" tvg-name="厦门卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" group-title="卫视",厦门卫视
+http://39.135.55.105:6610/PLTV/88888888/224/3221226781/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",海峡卫视
+http://39.135.55.105:6610/PLTV/88888888/224/3221227198/index.m3u8?servicetype=1

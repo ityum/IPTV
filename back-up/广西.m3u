@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="卫视",广西卫视
+http://39.135.55.105:6610/PLTV/88888888/224/3221227250/index.m3u8?servicetype=1

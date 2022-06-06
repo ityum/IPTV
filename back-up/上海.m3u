@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视
+http://39.135.55.105:6610/PLTV/88888888/224/3221225828/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视
+http://39.135.55.105:6610/PLTV/88888888/224/3221226560/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视
+http://39.135.55.105:6610/PLTV/88888888/224/3221226603/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视
+http://39.135.55.105:6610/PLTV/88888888/224/3221226895/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视
+http://39.135.55.105:6610/PLTV/88888888/224/3221227040/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视
+http://39.135.55.105:6610/PLTV/88888888/224/3221227059/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视
+http://39.135.138.58:18890/TVOD/88888888/224/3221225658/index.m3u8
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视
+http://39.135.138.58:18890/TVOD/88888888/224/3221225659/index.m3u8
