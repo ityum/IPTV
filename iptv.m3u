@@ -1,97 +1,95 @@
 #EXTM3U x-url-tvg="http://epg.51zmt.top:8000/e.xml.gz"
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1
-http://39.135.55.72:6610/PLTV/88888888/224/3221225829/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+http://111.20.33.93/PLTV/88888893/224/3221226231/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2
-http://39.135.55.72:6610/PLTV/88888888/224/3221225923/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+http://111.20.33.93/PLTV/88888893/224/3221226224/index.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV-3
-http://39.135.55.72:6610/PLTV/88888888/224/3221227256/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+http://111.20.33.93/PLTV/88888893/224/3221226397/index.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV-4
-http://39.135.55.72:6610/PLTV/88888888/224/3221226968/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+http://111.20.33.93/PLTV/88888893/224/3221226191/index.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV-5
-http://39.135.55.72:6610/PLTV/88888888/224/3221227170/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+http://111.20.33.93/PLTV/88888893/224/3221226395/index.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV-5+
-http://39.135.55.72:6610/PLTV/88888888/224/3221225821/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+http://111.20.33.93/PLTV/88888893/224/3221226221/index.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV-6
-http://39.135.55.72:6610/PLTV/88888888/224/3221227260/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+http://111.20.33.93/PLTV/88888893/224/3221226011/index.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV-7
-http://39.135.55.72:6610/PLTV/88888888/224/3221225927/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+http://111.20.33.93/PLTV/88888893/224/3221226192/index.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV-8
-http://39.135.55.72:6610/PLTV/88888888/224/3221227174/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+http://111.20.33.93/PLTV/88888893/224/3221226391/index.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV-9
-http://39.135.55.72:6610/PLTV/88888888/224/3221225820/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+http://111.20.33.93/PLTV/88888893/224/3221226197/index.m3u8
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视",CCTV-10
-http://39.135.55.72:6610/PLTV/88888888/224/3221225931/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+http://111.20.33.93/PLTV/88888893/224/3221226189/index.m3u8
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视",CCTV-11
-http://39.135.55.72:6610/PLTV/88888888/224/3221226927/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+http://111.20.33.93/PLTV/88888893/224/3221226240/index.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV-12
-http://39.135.55.72:6610/PLTV/88888888/224/3221226931/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+http://111.20.33.93/PLTV/88888893/224/3221226190/index.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV-13
-http://39.135.55.72:6610/PLTV/88888888/224/3221226985/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+http://111.20.33.93/PLTV/88888893/224/3221226233/index.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV-14
-http://39.135.55.72:6610/PLTV/88888888/224/3221227086/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+http://111.20.33.93/PLTV/88888893/224/3221226193/index.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV-15
-http://39.135.55.72:6610/PLTV/88888888/224/3221227270/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+http://119.167.231.18/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225854/index.m3u8
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV-16
-http://39.135.55.72:6610/PLTV/88888888/224/3221227162/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+http://111.20.33.93/PLTV/88888893/224/3221226921/index.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17
-http://39.135.55.72:6610/PLTV/88888888/224/3221226986/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+http://111.20.33.93/PLTV/88888893/224/3221226198/index.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV-4K
-http://39.135.55.72:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+http://down.loukky.com/c4k.php
 
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="https://gh.ityum.cn/ityum/IPTV/dev/logo/BRTV.png" group-title="卫视",北京卫视
-http://39.135.55.72:6610/PLTV/88888888/224/3221227246/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+http://111.20.33.93/PLTV/88888893/224/3221226222/index.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视
-http://39.135.55.72:6610/PLTV/88888888/224/3221225828/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+http://111.20.33.93/PLTV/88888893/224/3221226217/index.m3u8
 #EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视
-http://39.135.55.72:6610/PLTV/88888888/224/3221225862/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+http://111.20.33.93/PLTV/88888893/224/3221226215/index.m3u8
 #EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="卫视",吉林卫视
-http://39.135.55.72:6610/PLTV/88888888/224/3221227099/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+http://39.134.65.149/PLTV/88888888/224/3221225981/1.m3u8
 #EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视",辽宁卫视
-http://39.135.55.72:6610/PLTV/88888888/224/3221227141/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+http://111.20.33.93/PLTV/88888893/224/3221226210/index.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视
-http://39.135.55.72:6610/PLTV/88888888/224/3221227193/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+http://111.20.33.93/PLTV/88888893/224/3221226199/index.m3u8
 #EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视",天津卫视
-http://39.135.55.72:6610/PLTV/88888888/224/3221227205/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+http://111.20.33.93/PLTV/88888893/224/3221226204/index.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视
-http://39.135.55.72:6610/PLTV/88888888/224/3221227232/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+http://111.20.33.93/PLTV/88888893/224/3221226211/index.m3u8
 #EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="北京",冬奥纪实
-http://39.135.55.72:6610/PLTV/88888888/224/3221225944/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+http://111.20.33.93/PLTV/88888893/224/3221226232/index.m3u8
 #EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="卫视",河北卫视
-http://39.135.55.72:6610/PLTV/88888888/224/3221227063/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000002000017118&livemode=1&channel-id=ystenlive&test/PLTV/=08
 #EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="卫视",山西卫视
 http://liveflash.sxrtv.com:80/live/sxwshd.m3u8
 #EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视",山东卫视
-http://39.135.55.72:6610/PLTV/88888888/224/3221227236/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+http://111.20.33.93/PLTV/88888893/224/3221226209/index.m3u8
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视
-http://39.135.55.72:6610/PLTV/88888888/224/3221225847/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+http://111.20.33.93/PLTV/88888893/224/3221226200/index.m3u8
 #EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽卫视
-http://39.135.55.72:6610/PLTV/88888888/224/3221227178/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+http://111.20.33.93/PLTV/88888893/224/3221226196/index.m3u8
 #EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视",河南卫视
-http://39.135.55.72:6610/PLTV/88888888/224/3221225842/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+http://39.134.65.166/PLTV/88888888/224/3221225890/1.m3u8
 #EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视",湖北卫视
-http://39.135.55.72:6610/PLTV/88888888/224/3221227111/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+http://111.20.33.93/PLTV/88888893/224/3221226206/index.m3u8
 #EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视",江西卫视
-http://39.135.55.72:6610/PLTV/88888888/224/3221227209/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+http://117.148.179.157/PLTV/88888888/224/3221231511/index.m3u8
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视
-http://39.135.55.72:6610/PLTV/88888888/224/3221225824/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视",深圳卫视
-http://39.135.55.72:6610/PLTV/88888888/224/3221225848/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+http://111.20.33.93/PLTV/88888893/224/3221226216/index.m3u8
 #EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视",东南卫视
-http://39.135.55.72:6610/PLTV/88888888/224/3221227156/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+http://39.134.65.175/PLTV/88888888/224/3221225863/1.m3u8
 #EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="卫视",广西卫视
-http://39.135.55.72:6610/PLTV/88888888/224/3221227250/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221226211/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视",海南卫视
-http://39.135.55.72:6610/PLTV/88888888/224/3221227216/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+http://39.134.65.183/PLTV/88888888/224/3221225869/1.m3u8
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视",四川卫视
-http://39.135.55.72:6610/PLTV/88888888/224/3221227182/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+http://119.167.231.18/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225600/index.m3u8
 #EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="https://gh.ityum.cn/ityum/IPTV/dev/logo/chongqing.png" group-title="卫视",重庆卫视
-http://39.135.55.72:6610/PLTV/88888888/224/3221227240/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+http://111.20.33.93/PLTV/88888893/224/3221226202/index.m3u8
 #EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="卫视",云南卫视
-http://39.135.55.72:6610/PLTV/88888888/224/3221227181/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+http://125.210.152.19:9090/live/hzgq-ynwsgq-h264.m3u8
 #EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="卫视",贵州卫视
-http://39.135.55.72:6610/PLTV/88888888/224/3221227201/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+http://39.134.65.149/PLTV/88888888/224/3221225974/1.m3u8
 #EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="卫视",甘肃卫视
-http://39.135.55.72:6610/PLTV/88888888/224/3221227262/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+http://39.136.48.26:8089/PLTV/88888888/224/3221226387/index.m3u8
 
 #EXTINF:-1 tvg-id="1873" tvg-name="BRTV文艺" tvg-logo="https://gh.ityum.cn/ityum/IPTV/dev/logo/BRTVwenyi.png" group-title="北京",北京文艺
 http://221.179.136.134:443/PLTV/88888888/224/3221226440/1.m3u8
