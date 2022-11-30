@@ -89,7 +89,7 @@ http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227201/index.m3u
 #EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="卫视",甘肃卫视
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227262/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 
-#EXTINF:-1 tvg-id="1874" tvg-name="BRTV科教" tvg-logo="https://gh.ityum.cn/ityum/IPTV/dev/logo/BRTVkejiao8K.png" group-title="北京",北京纪实科教8K
+#EXTINF:-1 tvg-id="1874" tvg-name="BRTV科教" tvg-logo="https://gh.ityum.cn/ityum/IPTV/dev/logo/BRTVjishikejiao8K.png" group-title="北京",北京纪实科教8K
 http://111.62.156.15/down.brtvcloud.com/brtv8kapptv/brtv8kapp8ktv.m3u8
 
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文
