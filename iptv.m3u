@@ -36,7 +36,7 @@ http://39.134.66.110/PLTV/88888888/224/3221225893/index.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17
 http://39.134.66.110/PLTV/88888888/224/3221225708/index.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV-4K
-http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+http://ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
 
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="https://gh.ityum.cn/ityum/IPTV/dev/logo/BRTV.png" group-title="卫视",北京卫视
 http://39.134.66.110/PLTV/88888888/224/3221225931/index.m3u8
@@ -91,7 +91,7 @@ http://39.134.66.110/PLTV/88888888/224/3221225974/index.m3u8
 
 #EXTINF:-1 tvg-id="1873" tvg-name="BTV文艺" tvg-logo="https://gh.ityum.cn/ityum/IPTV/dev/logo/BRTVwenyi.png" group-title="北京",北京文艺
 http://111.31.106.45/downlive.brtvcloud.com/brtv8kapptv/brtv8kappwenyi.m3u8
-#EXTINF:-1 tvg-id="1874" tvg-name="BTV科教" tvg-logo="https://gh.ityum.cn/ityum/IPTV/dev/logo/BRTVkejiao.png" group-title="北京",北京科教
+#EXTINF:-1 tvg-id="1874" tvg-name="BTV科教" tvg-logo="https://gh.ityum.cn/ityum/IPTV/dev/logo/BRTVjishikejiao.png" group-title="北京",北京科教
 http://111.31.106.45/downlive.brtvcloud.com/brtv8kapptv/brtv8kappkejiao.m3u8
 #EXTINF:-1 tvg-id="1875" tvg-name="BTV影视" tvg-logo="https://gh.ityum.cn/ityum/IPTV/dev/logo/BRTVyingshi.png" group-title="北京",北京影视
 http://111.31.106.45/downlive.brtvcloud.com/brtv8kapptv/brtv8kappyingshi.m3u8
