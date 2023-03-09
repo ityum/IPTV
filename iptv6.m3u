@@ -37,10 +37,10 @@ http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227162/index.m3
 http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221226986/index.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV-4K
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-#EXTINF:-1 tvg-id="" tvg-name="CCTV8K" tvg-logo="https://gh.ityum.cn/ityum/IPTV/dev/logo/CCTV8K.png" group-title="央视",CCTV-8K
+#EXTINF:-1 tvg-id="" tvg-name="CCTV8K" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/ityum/IPTV/dev/logo/CCTV8K.png" group-title="央视",CCTV-8K
 http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1981574683_-2118700426/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1659435610&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
 
-#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="https://gh.ityum.cn/ityum/IPTV/dev/logo/BRTV.png" group-title="卫视",北京卫视
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/ityum/IPTV/dev/logo/BRTV.png" group-title="卫视",北京卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225600/2/index.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225489/2/index.m3u8
@@ -82,7 +82,7 @@ http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227250/index.m3u
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227216/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视",四川卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225487/2/index.m3u8
-#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="https://gh.ityum.cn/ityum/IPTV/dev/logo/chongqing.png" group-title="卫视",重庆卫视
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/ityum/IPTV/dev/logo/chongqing.png" group-title="卫视",重庆卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225612/2/index.m3u8
 #EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="卫视",云南卫视
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227181/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
@@ -91,19 +91,19 @@ http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227201/index.m3u
 #EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="卫视",甘肃卫视
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227262/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 
-#EXTINF:-1 tvg-id="1874" tvg-name="BTV科教" tvg-logo="https://gh.ityum.cn/ityum/IPTV/dev/logo/BRTVjishikejiao8K.png" group-title="北京",北京纪实科教8K
+#EXTINF:-1 tvg-id="1874" tvg-name="BTV科教" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/ityum/IPTV/dev/logo/BRTVjishikejiao8K.png" group-title="北京",北京纪实科教8K
 http://120.221.226.50/downlive.brtvcloud.com/jpegxs1510/8kzuiqingxi.m3u8
-#EXTINF:-1 tvg-id="1873" tvg-name="BTV文艺" tvg-logo="https://gh.ityum.cn/ityum/IPTV/dev/logo/BRTVwenyi.png" group-title="北京",北京文艺
+#EXTINF:-1 tvg-id="1873" tvg-name="BTV文艺" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/ityum/IPTV/dev/logo/BRTVwenyi.png" group-title="北京",北京文艺
 
-#EXTINF:-1 tvg-id="1874" tvg-name="BTV科教" tvg-logo="https://gh.ityum.cn/ityum/IPTV/dev/logo/BRTVjishikejiao.png" group-title="北京",北京纪实科教
+#EXTINF:-1 tvg-id="1874" tvg-name="BTV科教" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/ityum/IPTV/dev/logo/BRTVjishikejiao.png" group-title="北京",北京纪实科教
 http://120.221.226.50/downlive.brtvcloud.com/1505kj/kjzhongguodiyi.m3u8
-#EXTINF:-1 tvg-id="1875" tvg-name="BTV影视" tvg-logo="https://gh.ityum.cn/ityum/IPTV/dev/logo/BRTVyingshi.png" group-title="北京",北京影视
+#EXTINF:-1 tvg-id="1875" tvg-name="BTV影视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/ityum/IPTV/dev/logo/BRTVyingshi.png" group-title="北京",北京影视
 
-#EXTINF:-1 tvg-id="1876" tvg-name="BTV财经" tvg-logo="https://gh.ityum.cn/ityum/IPTV/dev/logo/BRTVcaijing.png" group-title="北京",北京财经
+#EXTINF:-1 tvg-id="1876" tvg-name="BTV财经" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/ityum/IPTV/dev/logo/BRTVcaijing.png" group-title="北京",北京财经
 
-#EXTINF:-1 tvg-id="1878" tvg-name="BTV生活" tvg-logo="https://gh.ityum.cn/ityum/IPTV/dev/logo/BRTVshenghuo.png" group-title="北京",北京生活
+#EXTINF:-1 tvg-id="1878" tvg-name="BTV生活" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/ityum/IPTV/dev/logo/BRTVshenghuo.png" group-title="北京",北京生活
 
-#EXTINF:-1 tvg-id="1880" tvg-name="BTV新闻" tvg-logo="https://gh.ityum.cn/ityum/IPTV/dev/logo/BRTVNews.png" group-title="北京",北京新闻
+#EXTINF:-1 tvg-id="1880" tvg-name="BTV新闻" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/ityum/IPTV/dev/logo/BRTVNews.png" group-title="北京",北京新闻
 
 
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文
