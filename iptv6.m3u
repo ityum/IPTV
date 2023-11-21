@@ -36,12 +36,12 @@ http://[2409:8087:2001:20:2800:0:df6e:eb19]/ott.mobaibox.com/PLTV/4/224/32212281
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17
 http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/4/224/3221227578/index.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV-4K
-https://cntv.lat/tv?auth=202311030915&id=cctv4k
-#EXTINF:-1 tvg-id="" tvg-name="CCTV8K" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/ityum/IPTV/dev/logo/CCTV8K.png" group-title="央视",CCTV-8K
+http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV8K" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ityum/IPTV/dev/logo/CCTV8K.png" group-title="央视",CCTV-8K
 http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/4/224/3221228165/index.m3u8
 
 
-#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/ityum/IPTV/dev/logo/BRTV.png" group-title="卫视",北京卫视
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ityum/IPTV/dev/logo/BRTV.png" group-title="卫视",北京卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/4/224/3221227694/index.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb0a]/ott.mobaibox.com/PLTV/4/224/3221227732/index.m3u8
@@ -81,7 +81,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb1a]/ott.mobaibox.com/PLTV/4/224/32212281
 http://[2409:8087:2001:20:2800:0:df6e:eb08]/ott.mobaibox.com/PLTV/4/224/3221228139/index.m3u8
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视",四川卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb08]/ott.mobaibox.com/PLTV/4/224/3221227556/index.m3u8
-#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/ityum/IPTV/dev/logo/chongqing.png" group-title="卫视",重庆卫视
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ityum/IPTV/dev/logo/chongqing.png" group-title="卫视",重庆卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb1b]/ott.mobaibox.com/PLTV/4/224/3221227550/index.m3u8
 #EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="卫视",云南卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/4/224/3221225591/index.m3u8
